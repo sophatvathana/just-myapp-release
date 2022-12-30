@@ -3,10 +3,10 @@
     <channel>
         <title>Moosic - Appcast</title>
         <item>
-            <title>Version 1.0.11</title>
+            <title>Version 1.0.12</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 22 Dec 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://moosic.en.aptoide.com/app" sparkle:version="1.0.11" sparkle:os="android" />
+            <enclosure url="https://moosic.en.aptoide.com/app" sparkle:version="1.0.12" sparkle:os="android" />
         </item>
     </channel>
 </rss>
