@@ -8,5 +8,11 @@
             <pubDate>Sun, 22 Dec 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://moosic.en.aptoide.com/app" sparkle:version="1.0.11" sparkle:os="android" />
         </item>
+        <item>
+            <title>Version 2.0.1</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 22 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/join/zJO4o20y" sparkle:version="2.0.1" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
